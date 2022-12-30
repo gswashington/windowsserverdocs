@@ -13,4 +13,4 @@ ms.date: 12/30/2022
 
 The cprofile command is deprecated and may not be supported in later versions of Windows.
 
-Terminal Services is renamed Remote Desktop Services. For more information, see [Welcome to Remote Desktop Services](../../remote/remote-desktop-services/welcome-to-rds.md).
+Terminal Services is renamed to Remote Desktop Services. For more information, see [Welcome to Remote Desktop Services](../../remote/remote-desktop-services/welcome-to-rds.md).
